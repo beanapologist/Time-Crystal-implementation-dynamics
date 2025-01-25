@@ -94,7 +94,7 @@ npm run start
 - [Technical Documentation](https://docs.timecrystal.network)
 - [Validator Guide](https://docs.timecrystal.network/validator)
 - [Economic Model Details](https://docs.timecrystal.network/economics)
-- [Discord Community](https://discord.gg/timecrystal)
+- [Discord Community (https://discord.gg/EcvjZrvD)
 
 ## Contributing
 
